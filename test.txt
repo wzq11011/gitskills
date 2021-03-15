@@ -1,2 +1,2 @@
-Vim is a useful tool to edit the contentss.
+Vim is a useful tool to edit the contents.
 It's no doubt that ...
